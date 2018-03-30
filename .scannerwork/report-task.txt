@@ -1,0 +1,6 @@
+projectKey=GameCollectorAPI_v6
+serverUrl=http://localhost:9000
+serverVersion=6.5.0.27846
+dashboardUrl=http://localhost:9000/dashboard/index/GameCollectorAPI_v6
+ceTaskId=AWJ4yw8YeDKleTEhVmw1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWJ4yw8YeDKleTEhVmw1
