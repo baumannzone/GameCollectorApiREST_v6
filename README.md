@@ -15,19 +15,19 @@ And quality control center with:
 
 - sonarqube
 
-# Run tests
+### Run tests
 
 ```shell
 $ npm run test
 ```
 
-# Run test with coverage using istanbul module
+### Run test with coverage using istanbul module
 
 ```shell
 $ npm run cover
 ```
 
-# Start sonarqube
+### Start sonarqube
 
 To use sonarqube, you need docker, docker-compose and sonar-scanner installed (if not, view part 4 of this tutorial how to do it)
 
